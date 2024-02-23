@@ -1,3 +1,5 @@
-hola esto es una prueba
-esto es un xd error
-prohibido ver esto
+print("Comienzo")
+for i in [0, 1, 2]:
+    print("Hola ", end="")
+print()
+print("Final")
