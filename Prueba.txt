@@ -1,4 +1,4 @@
-hola esto es una prueba
-esto es un xd error
-prohibido ver esto
-no se que fue eso
+print("Comienzo")
+for numero in  [0, 1, 2, 3]:
+    print(f"{numero} * {numero} = {numero ** 2}")
+print("Final")
